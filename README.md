@@ -1,3 +1,6 @@
+=========================
+Simple implementation of Linked List in MIPS
+=========================
 Anh Vu L Nguyen
 April 2015
 
